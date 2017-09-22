@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shehryarmalik/.android/build-cache/37480a3f7fa2a62d7b33b1589d9b74c04b42ca01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/shehryarmalik/AndroidStudioProjects/testapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65d79e37f10f8e4bff999e6295b121492ec23ff5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shehryarmalik/AndroidStudioProjects/testapp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/shehryarmalik/AndroidStudioProjects/testapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7d09bd3a4f8d3ed18bbf7e50eca6ed6290798128/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shehryarmalik/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/shehryarmalik/AndroidStudioProjects/testapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_84bfe1cd4950c4ea44b28396775d52e9c2eb677e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shehryarmalik/AndroidStudioProjects/testapp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b40c0f2c574e5b2efa77d626a9255e3fc9ed056e">
+        <dex dex="/Users/shehryarmalik/AndroidStudioProjects/testapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_81f2508906cdfdb5f547ff2a3ed7f6bd0fd14487/classes.dex" />
+    </item>
+
+</items>
